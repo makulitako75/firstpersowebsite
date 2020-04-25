@@ -1,2 +1,0 @@
-# firstpersowebsite
-Created with CodeSandbox
